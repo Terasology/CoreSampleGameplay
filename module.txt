@@ -1,6 +1,7 @@
 {
     "id" : "CoreSampleGameplay",
     "version" : "4.0.0",
+    "isReleaseManaged": true,
     "displayName" : "Core Gameplay",
     "description" : "Minimal gameplay template. Little content but a few starting items.",
     "dependencies" : [
@@ -11,6 +12,5 @@
         { "id": "Inventory", "minVersion": "1.1.0" }
     ],
     "isGameplay" : "true",
-    "defaultWorldGenerator" : "CoreWorlds:FacetedPerlin",
-    "isReleaseManaged" : true
+    "defaultWorldGenerator" : "CoreWorlds:FacetedPerlin"
 }
