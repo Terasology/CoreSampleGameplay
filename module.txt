@@ -1,6 +1,6 @@
 {
     "id": "CoreSampleGameplay",
-    "version": "4.0.1",
+    "version": "4.0.2",
     "isReleaseManaged": true,
     "displayName": "Core Gameplay",
     "description": "Minimal gameplay template. Little content but a few starting items.",
