@@ -1,16 +1,16 @@
 {
-    "id" : "CoreSampleGameplay",
-    "version" : "4.0.1",
+    "id": "CoreSampleGameplay",
+    "version": "4.0.2",
     "isReleaseManaged": true,
-    "displayName" : "Core Gameplay",
-    "description" : "Minimal gameplay template. Little content but a few starting items.",
-    "dependencies" : [
+    "displayName": "Core Gameplay",
+    "description": "Minimal gameplay template. Little content but a few starting items.",
+    "dependencies": [
         { "id": "CoreAdvancedAssets", "minVersion": "1.0.0" },
         { "id": "CoreAssets", "minVersion": "2.0.0" },
-        { "id": "CoreWorlds", "minVersion": "1.0.0" },
+        { "id": "CoreWorlds", "minVersion": "1.1.0" },
         { "id": "Health", "minVersion": "1.0.0" },
         { "id": "Inventory", "minVersion": "1.2.0" }
     ],
-    "isGameplay" : "true",
-    "defaultWorldGenerator" : "CoreWorlds:FacetedPerlin"
+    "isGameplay": "true",
+    "defaultWorldGenerator": "CoreWorlds:FacetedPerlin"
 }
