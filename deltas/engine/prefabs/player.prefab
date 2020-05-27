@@ -5,7 +5,7 @@
       { "uri": "CoreAssets:axe" },
       { "uri": "CoreAssets:shovel" },
       { "uri": "CoreAssets:Torch", "quantity": 99 },
-      { "uri": "CoreSampleGameplay:companion", "quantity": 99 },
+      { "uri": "CoreSampleGameplay:companion" },
       {
         "uri": "CoreAdvancedAssets:Chest",
         "items": [
