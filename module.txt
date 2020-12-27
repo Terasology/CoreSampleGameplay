@@ -8,10 +8,10 @@
         { "id": "CoreAdvancedAssets", "minVersion": "1.0.0" },
         { "id": "CoreAssets", "minVersion": "2.0.0" },
         { "id": "CoreRendering", "minVersion": "1.0.0" },
-        { "id": "CoreWorlds", "minVersion": "1.1.0" },
+        { "id": "CoreWorlds", "minVersion": "1.1.0", "minVersion": "3.0.0" },
         { "id": "Health", "minVersion": "1.0.0" },
         { "id": "Inventory", "minVersion": "1.2.1" }
     ],
     "isGameplay": "true",
-    "defaultWorldGenerator": "CoreWorlds:FacetedPerlin"
+    "defaultWorldGenerator": "CoreWorlds:FacetedSimplex"
 }
